@@ -1,0 +1,1 @@
+This is a game where you must stop flies reaching the cake by clicking on them. You gain 1 point for each fly killed but if a fly reaches the cake the game is over. There is also a 2nd enemy type called the bee. The bee will chase the mouse and if it is clicked on or it touches the cake you also lose the game.
